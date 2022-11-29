@@ -47,6 +47,9 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start:dev
+
+# Para executar os testes da aplicação
+$ npm test
 ```
 
 ## 🛠 Tecnologias
