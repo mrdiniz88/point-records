@@ -14,25 +14,24 @@
 # Tabela de conteúdos
 
 <!--ts-->
-
-- [Instalação](#instalacao)
 - [Como usar](#como-usar)
-  - [Pre Requisitos](#pre-requisitos)
-  - [Rodar Aplicação](#rodar-aplicação)
-- [Tests](#testes)
-- [Tecnologias](#tecnologias)
+  - [Pre Requisitos](#pré-requisitos)
+  - [Rodar Aplicação](#-rodando-a-aplicação)
+- [Tecnologias](#-tecnologias)
 <!--te-->
 
 ---
 
-## Pré-requisitos
+## Como usar
+
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
 ---
 
-## 🎲 Rodando a aplicação
+### 🎲 Rodando a aplicação
 
 ```bash
 # Clone este repositório
