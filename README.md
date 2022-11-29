@@ -14,10 +14,12 @@
 # Tabela de conteúdos
 
 <!--ts-->
+
 - [Como usar](#como-usar)
   - [Pre Requisitos](#pré-requisitos)
   - [Rodar Aplicação](#-rodando-a-aplicação)
 - [Tecnologias](#-tecnologias)
+- [Observações](#observação)
 <!--te-->
 
 ---
@@ -47,8 +49,6 @@ $ npm install
 $ npm run start:dev
 ```
 
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -59,3 +59,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeORM](https://typeorm.io/)
 - [Graphql](http://graphql.org/)
 
+## Observação
+
+Obtive um problema a testar a subscription no insomnia, porém tudo corre bem quando é testado no playground.
