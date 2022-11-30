@@ -70,6 +70,6 @@ Deixei um usuário admin padrão ja salvo no banco de dados, pois apenas usuario
 
 Para fazer login com o mesmo:
 
-email: admin@gmail.com
+*email: admin@gmail.com*
 
-password: admin123
+*password: admin123*
