@@ -65,3 +65,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Observação
 
 Obtive um problema a testar a subscription no insomnia, porém tudo corre bem quando é testado no playground.
+
+Deixei um usuário admin padrão ja salvo no banco de dados, pois apenas usuarios com permisão de admnistrador pode criar novos usuarios.
+Para fazer login com o mesmo:
+"""email: admin@gmail.com
+password: admin123"""
