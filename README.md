@@ -52,6 +52,40 @@ $ npm run start:dev
 $ npm test
 ```
 
+### Fazendo requisições
+
+#### **Faça login com o usuário ADMIN pre-existente:**
+
+![login-admin](./extra/assets/login-admin.png)
+
+#### **Crie um COLABORADOR usando o JWT do nosso ADMIN:**
+
+![signup-collaborator](./extra/assets/signup-collaborator.png)
+
+#### **Faça login com o colaborador criado:**
+
+![login-collaborator](./extra/assets/login-collaborator.png)
+
+#### **Ligue a subscription usando o JWT do ADMIN:**
+
+![subscription-on](./extra/assets/registers-subscription-on.png)
+
+#### **Registre o ponto usando o JWT do COLABORADOR**
+
+![register-point](./extra/assets/register-point.png)
+
+#### **O ponto registrado aparecerar automaticamente na subscription:**
+
+![subscription](./extra/assets/registers-subscription.png)
+
+#### **Utilize o JWT do usuário para buscar seus dados:**
+
+![find-user](./extra/assets/find-user.png)
+
+#### **Utilize o JWT do ADMIN para buscar os dados de todos os usuarios:**
+
+![find-all-users](./extra/assets/find-all-users.png)
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -70,6 +104,6 @@ Deixei um usuário admin padrão ja salvo no banco de dados, pois apenas usuario
 
 Para fazer login com o mesmo:
 
-***email: admin@gmail.com***
+**_email: admin@gmail.com_**
 
-***password: admin123***
+**_password: admin123_**
